@@ -1,6 +1,6 @@
 (intro)=
-# Welcome to the Template Book
+# Welcome to the teachbook of Earth and Climate Data Analysis
 
-_This is the first page the student will see when opening the url._
-
-This book can be used as a template for other books. It includes a starter package of the software developed by the TeachBooks initiative and some exercises to get you going!
+This course deals with how to rigorously use earth observation data to monitor changes or processes on the Earth’s surface. You will learn how to estimate temporal and spatial variations of geophysical parameters, based on available earth observation data. The signals of interests can be related to local human activities, such as gas or groundwater extraction, related to climate change, such as ice-mass losses in Greenland or Antarctica, or related to natural processes, such as tectonic and volcanic activity. In this data-oriented module, you will acquire the skills and theoretical background required to process Earth observation data in order to retrieve the signals of interest, in particular by using estimation, testing, time series and Fourier analysis methods. 
+ 
+A key aspect of this course is dealing with errors in the data and assessing the quality of the input data as well the estimated parameters. You will learn how to characterize different types of noise, and to make the best possible estimate of the parameters of interest in presence of noise. By learning about hypothesis testing, students will be able to select the model that best fits a set of measurements.
